@@ -1,0 +1,11 @@
+aenum;python_version<"3.4"
+argparse;python_version<"2.7"
+autoupgrade-ng
+daemonize
+future
+pycurl
+pyload.config~=0.6
+pyload.requests~=0.6
+pyload.utils2~=0.6
+semver
+setuptools>=0.6.39
